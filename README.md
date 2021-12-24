@@ -1,3 +1,13 @@
+# 2021/12/24
+Githubのプロジェクト機能が充実してきたので、Github就活・転職プロジェクトを最新化していきます。
+<br />2022年のGithub就活・転職は何をやるにしても、基本的にRDD/IDDを採用しています。
+<br />Githubの仕様でテスト環境＝本番環境なので、基本的に何でもかんでもR&Dと言い張ってます。
+
+- RDD: Readme Driven Development: README.mdを更新してから書いた内容に従って作業・実装
+- IDD: Issue Driven Development:  
+
+この辺りの細かい話は、[後日Qiitaに書きます。](https://github.com/shimajima-eiji/Projects/issues/18)
+
 # README
 私やリポジトリについて、情報を集約しています
 
