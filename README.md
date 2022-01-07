@@ -1,4 +1,4 @@
-# 最終更新: 2021/12/24
+# 最終更新: 2022/01/07
 Githubのプロジェクト機能が充実してきたので、Github就活・転職プロジェクトを最新化していきます。
 <br />2022年のGithub就活・転職は何をやるにしても、基本的にRDD/IDDを採用しています。
 <br />とはいえ、Githubの仕様でテスト環境＝本番環境なので、基本的に何でもかんでもR&Dと言い張ってます。
@@ -12,12 +12,15 @@ Githubのプロジェクト機能が充実してきたので、Github就活・�
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/nomurasan/posts.svg)](http://qiita.com/nomurasan) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/nomurasan/contributions.svg)](http://qiita.com/nomurasan) [![My Qiita followers](https://qiita-badge.apiapi.app/s/nomurasan/followers.svg)](http://qiita.com/nomurasan)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=shimajima-eiji&count_private=true&show_icons=true" />
+[](マークダウンで書くとリンク先がおかしくなったので、htmlタグで書く必要がある)
+<a href="https://github-readme-stats.vercel.app/api?username=shimajima-eiji&count_private=true&show_icons=true">
+  <img alt="GitHubでの活動記録" src="https://github-readme-stats.vercel.app/api?username=shimajima-eiji&count_private=true&show_icons=true" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimajima-eiji&count_private=true" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=shimajima-eiji&count_private=true">
+  <img alt="よく使う言語など(GitHub基準)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimajima-eiji&count_private=true" />
 </a>
+
+![Contribute](https://raw.githubusercontent.com/shimajima-eiji/shimajima-eiji/master/profile-3d-contrib/profile-night-rainbow.svg)
 
 ## 主要リポジトリ
 [すべてのリポジトリを参照する場合は、こちらのリンクよりご覧ください。](https://github.com/shimajima-eiji?tab=repositories)
@@ -33,5 +36,6 @@ Githubのプロジェクト機能が充実してきたので、Github就活・�
 |[Github：トップページ](https://github.com/shimajima-eiji)|本来のGithubページの仕様に従って作成していますので、若干読みにくいかもしれません。エンジニアの方向けです。|
 |[すべての作品一覧](https://github.com/shimajima-eiji?tab=repositories)|作成したプログラムやブログサイト向けのソースコード、または作品のうち公開できるものを置いています。|
 |[Github：転職プロジェクト](https://github.com/shimajima-eiji?tab=projects&type=beta)|こういう活動やってます、というのを一覧できるようにしました。進捗管理にも使っています。|
-|[Webサービス](https://shimajima-eiji.github.io/Hosting/)|すぐに使えるサービスです。主にJavaScriptで作成しています。|
+|[Webサービス](https://shimajima-eiji.github.io/Hosting)|すぐに使えるサービスです。主にJavaScriptで作成しています。|
 |[Webサービス（ソースコード）](https://github.com/shimajima-eiji/Hosting)|上記サービスのソースコードを置いています。|
+|[開発環境](https://github.com/shimajima-eiji/Settings_Environment)|エンジニアの方向けに、私の開発環境を公開しています。|
