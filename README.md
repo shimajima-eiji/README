@@ -1,12 +1,12 @@
-# 最終更新: 2022/01/07
-Githubのプロジェクト機能が充実してきたので、Github就活・転職プロジェクトを最新化していきます。
-<br />2022年のGithub就活・転職は何をやるにしても、基本的にRDD/IDDを採用しています。
-<br />とはいえ、Githubの仕様でテスト環境＝本番環境なので、基本的に何でもかんでもR&Dと言い張ってます。
+# 最終更新: 2022/03/27
+
 
 - RDD: Readme Driven Development: README.mdを更新してから書いた内容に従って作業・実装しています。
 - IDD: Issue Driven Development:  [GithubのProject](https://github.com/shimajima-eiji?tab=projects&type=beta)を使って今年やることを見える化しています
 
 この辺りの細かい話は、[後日Qiitaに書きます。](https://github.com/shimajima-eiji/Projects/issues/18)
+
+---
 
 ## 活動記録
 
@@ -20,13 +20,16 @@ Githubのプロジェクト機能が充実してきたので、Github就活・�
   <img alt="よく使う言語など(GitHub基準)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimajima-eiji&count_private=true" />
 </a>
 
-![Contribute](https://raw.githubusercontent.com/shimajima-eiji/shimajima-eiji/master/profile-3d-contrib/profile-night-rainbow.svg)
+
+---
 
 ## 主要リポジトリ
 [すべてのリポジトリを参照する場合は、こちらのリンクよりご覧ください。](https://github.com/shimajima-eiji?tab=repositories)
 
 ![README](https://github-readme-stats.vercel.app/api/pin/?username=shimajima-eiji&repo=README)
 ![Projects](https://github-readme-stats.vercel.app/api/pin/?username=shimajima-eiji&repo=Projects)
+
+---
 
 ## その他、参考サイト
 
